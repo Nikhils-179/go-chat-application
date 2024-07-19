@@ -118,9 +118,9 @@ Open your web browser and navigate to http://localhost to access the WebSocket c
 
 <img width="800" alt="Screenshot 2024-07-19 at 7 37 17 PM" src="https://github.com/user-attachments/assets/c0ea81f1-e8a3-4526-a82a-56b11b6e9ccb">
 
-<img width="800" alt="Screenshot 2024-07-19 at 7 37 50 PM" src="https://github.com/user-attachments/assets/ad8baecd-5313-4b60-a4
+<img width="800" alt="Screenshot 2024-07-19 at 7 37 50 PM" src="https://github.com/user-attachments/assets/ad8baecd-5313-4b60-a40d-bf1e2db2994f">
 
 <img width="800" alt="Screenshot 2024-07-19 at 7 38 48 PM" src="https://github.com/user-attachments/assets/d4a65fc5-f628-440b-86ad-93bb0e8f1aa9">
-0d-bf1e2db2994f">
+
 
 
