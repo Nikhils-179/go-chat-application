@@ -108,6 +108,4 @@ Open your web browser and navigate to http://localhost to access the WebSocket c
 
 2. Frontend Configuration: The static files (index.html, style.css, script.js) are served by the Go server and provide the user interface and WebSocket interactions.
 
-3. Security Configuration
-
-Added security to restrict WebSocket connections to only allow requests from `localhost:8080`. This is enforced by checking the `Origin` header in the WebSocket upgrade request. Connections from other origins will be rejected to prevent unauthorized access.
+3. Security Configuration : Added security to restrict WebSocket connections to only allow requests from `localhost:8080`. This is enforced by checking the `Origin` header in the WebSocket upgrade request. Connections from other origins will be rejected to prevent unauthorized access.
